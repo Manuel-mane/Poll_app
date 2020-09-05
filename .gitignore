@@ -2,3 +2,4 @@ python_sql_venv
 .vscode
 Python_refresher
 programming_journal
+.env

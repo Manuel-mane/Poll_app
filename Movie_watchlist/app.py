@@ -1,6 +1,7 @@
 import database
 import datetime
 
+
 menu = """Please select one of the following options:
 1) Add new movie.
 2) View upcoming movies.
